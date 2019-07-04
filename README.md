@@ -8,9 +8,9 @@
   
   1.html  
   2.css  
-  3.js 
+  3.js  
   4.ajax  
-  5.jquery 
+  5.jquery  
   6.javase  
   7.spring  
   8.springmvc  
@@ -20,7 +20,7 @@
   12.maven  
   
   
-  书籍已阅：
+  书籍已阅：  
   1.《图解TCP/IP》  
   2.《图解HTTP》  
   3.《深入理解java虚拟机》  
